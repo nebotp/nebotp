@@ -11,7 +11,6 @@
 #### ⭐ Sys admin and Cybersec.
 #### 📚 I'm constantly learning and studying new things to improve at my field.
 #### 📃 Visit my website to see more. https://nebotp.github.io/
-#### ❤️ I love to read.
 
 ---
 
