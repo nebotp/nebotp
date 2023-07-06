@@ -9,7 +9,7 @@
 
 #### 💼 Open to work.
 #### ⭐ Sys admin and Cybersec.
-#### 📚 I'am constantly learning and studying new things to improve at my field.
+#### 📚 I'm constantly learning and studying new things to improve at my field.
 #### 📃 Visit my website to see more. https://nebotp.github.io/
 #### ❤️ I love to read.
 
