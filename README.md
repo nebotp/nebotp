@@ -23,7 +23,7 @@
   
 ---
 
-#### ✅ Languages and technologies: HTML, CSS, PYTHON, MYSQL.
+#### ✅ Languages and technologies: HTML, CSS, WORDPRESS, PYTHON, MYSQL.
 
 
 ---
