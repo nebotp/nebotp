@@ -1,7 +1,7 @@
 ---
                                                                                                                              
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/nebotp/nebotp/main/images/me.png" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/nebotp/nebotp/main/images/1689678441960-modified.png" />
    <h3 align="center">★  ¡Hello World!  ★</h3>
 </p>
 
