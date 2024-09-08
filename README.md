@@ -45,13 +45,10 @@ I'm **[Pol Nebot](https://www.linkedin.com/in/polnb/)**, a computer engineering 
 
 👉 Still Learning Bug hunting & malware forensics.
 
-👉 Managing Tech Communities & Content creator.
+👉 Future Content creator.
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 Writing Some Useful Tools For Myself
 
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
