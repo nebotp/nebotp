@@ -51,7 +51,7 @@ I'm **[Pol Nebot](https://www.linkedin.com/in/polnb/)**, a computer engineering 
 
 
 `Updating:`  Journey to Cybersecurity Specialist.
-
+<br><br><br>
 
 
 ---
