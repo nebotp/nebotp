@@ -28,11 +28,10 @@ I'm **[Pol Nebot](https://www.linkedin.com/in/polnb/)**, a computer engineering 
 - **Name**: Pol
 - **From**: Spain
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
--**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities**
+- I have experience in AWS, web pentesting, linux pentesting, forensics, Social engineering, spy agent.
+- Improving knowledge in **Active Directory**
 - I’m currently learning **everything** 
-- Reach me out at **coffinxp7@proton.me**
+- Reach me out at **pol.nebotb@gmail.com**
 
 </details>
 <br>
