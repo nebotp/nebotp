@@ -55,6 +55,7 @@ I'm **[Pol Nebot](https://www.linkedin.com/in/polnb/)**, a computer engineering 
 ---
 
 
+
 <p align="center">
   <b><i>"One day or day one."</i></b>
 </p>
