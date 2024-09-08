@@ -59,7 +59,7 @@ I'm **[Pol Nebot](https://www.linkedin.com/in/polnb/)**, a computer engineering 
 
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>Tryhackme Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinsp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
