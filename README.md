@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Pol Nebot](https://www.youtube.com/@lostsecc)**, a computer engineering & cibersecurity student. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br><br>
+I'm **[Pol Nebot](https://www.linkedin.com/in/polnb/)**, a computer engineering & cibersecurity student. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br><br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
